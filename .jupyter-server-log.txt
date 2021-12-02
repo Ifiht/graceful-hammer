@@ -63,3 +63,7 @@ TermSocket.open: Opened 2
 [I 03:25:31.571 NotebookApp] Saving file at /binder/environment.yml
 [I 03:25:44.247 NotebookApp] Creating new file in /binder
 [I 03:25:55.899 NotebookApp] Saving file at /binder/PostBuild
+[I 03:27:29.320 NotebookApp] Creating new file in 
+[I 03:27:48.693 NotebookApp] Saving file at /gitignore
+[W 03:27:52.408 NotebookApp] Notebook ENVI.ipynb is not trusted
+[I 03:29:52.690 NotebookApp] Saving file at /ENVI.ipynb
