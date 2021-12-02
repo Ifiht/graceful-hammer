@@ -1,4 +1,5 @@
 build-essential
-telnetd
+telnet
+inetutils-telnet
 nano
 zsh
